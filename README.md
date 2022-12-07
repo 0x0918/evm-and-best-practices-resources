@@ -65,8 +65,8 @@ https://jeancvllr.medium.com
 https://www.youtube.com/watch?v=FnE9tpcMY88&t
 
 ## Solidity patterns
-* List of patterns   
-https://github.com/dragonfly-xyz/useful-solidity-patterns
+* https://github.com/dragonfly-xyz/useful-solidity-patterns
+* https://github.com/fravoll/solidity-patterns
 
 # Contributing 
 If have any resources to share, please open an issue or PR
