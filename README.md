@@ -35,6 +35,14 @@ https://github.com/maple-labs/revenue-distribution-token/blob/main/contracts/tes
 * Fuzzing from Trails of Bits  
 https://www.youtube.com/watch?v=QofNQxW_K08
 
+### Invariants
+* https://twitter.com/eth_call/status/1601223439742009345?s=20&t=RUQdFVe7wMW6eXb0ObD5xA
+* https://book.getfoundry.sh/reference/config/testing#invariant
+* https://github.com/dapphub/dapptools/tree/master/src/dapp#invariant-testing
+* https://github.com/gooberxyz/goobervault/blob/main/test/Goober.invariants.t.sol
+* https://github.com/maple-labs/revenue-distribution-token/blob/main/contracts/test/Invariants.t.sol
+* https://github.com/crytic/building-secure-contracts/tree/master/program-analysis/echidna
+
 ## Tools
 * Surya graph  
  https://github.com/ConsenSys/surya 
@@ -67,6 +75,12 @@ https://www.youtube.com/watch?v=FnE9tpcMY88&t
 ## Solidity patterns
 * https://github.com/dragonfly-xyz/useful-solidity-patterns
 * https://github.com/fravoll/solidity-patterns
+
+## CheatSheets
+* https://github.com/patrickd-/cheatsheet.sol/blob/main/contracts/cheatsheet.sol
+
+## Blog posts
+* https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/
 
 # Contributing 
 If have any resources to share, please open an issue or PR
