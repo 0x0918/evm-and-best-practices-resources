@@ -56,6 +56,7 @@ https://github.com/crytic/building-secure-contracts/tree/master/program-analysis
 * https://ethernaut.openzeppelin.com
 * https://capturetheether.com
 * https://immunefi.com/learn/
+* https://github.com/x676f64/secureum-mind_map
 
 ## Examples of vulnerable contracts
 * https://github.com/crytic/not-so-smart-contracts/ 
